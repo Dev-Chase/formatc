@@ -1,0 +1,32 @@
+[
+  {
+    "arguments": [
+      "/opt/homebrew/opt/llvm/bin/clang",
+      "-g",
+      "-Wall",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "obj/main.o",
+      "src/main.c"
+    ],
+    "directory": "/Users/chase/Coding/C/formatc",
+    "file": "/Users/chase/Coding/C/formatc/src/main.c",
+    "output": "/Users/chase/Coding/C/formatc/obj/main.o"
+  },
+  {
+    "arguments": [
+      "/opt/homebrew/opt/llvm/bin/clang",
+      "-g",
+      "-Wall",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "obj/format.o",
+      "src/format.c"
+    ],
+    "directory": "/Users/chase/Coding/C/formatc",
+    "file": "/Users/chase/Coding/C/formatc/src/format.c",
+    "output": "/Users/chase/Coding/C/formatc/obj/format.o"
+  }
+]
